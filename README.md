@@ -24,12 +24,9 @@ Iniciei os meus estudos na área de computação em 2014 , no Instituto Federal 
 |[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img/git.png" width="50" title="Git">](https://git-scm.com)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|[<img src="img\openai.png" width="50" title="OpenAI">](https://openai.com/blog/openai-api)|
 
 ## 🎓 Certificados:
-
-|Bootcamps Concluidos|
 |--|
 |[<img src="img\bifpdz.png" width="60">](https://www.dio.me/certificate/A68A2AAE/share)[<img src="img\bcjavabp.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)[<img src="img\cddpybs.png" width="65">](https://www.dio.me/certificate/92565078/share)[<img src="img\bcifpcd.png" width="60">](https://www.dio.me/certificate/B8661910/share)|
 
-|Formações Concluidas|CodeCamps Concluidos|Cursos Concluidos|
 |--|--|--|
 |[<img src="img/fpydev.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="img/fgpt.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)|[<img src="img/codecamp1.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="img/codecamp2.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)|[<img src="img\python_pt1.png" width="200">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)|
 
