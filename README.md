@@ -21,7 +21,7 @@ Iniciei os meus estudos na área de computação em 2014 , no Instituto Federal 
 
 |Ferramentas|APIs|
 |--|--|
-|[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img/git.png" width="50" title="Git">](https://git-scm.com)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|[<img src="img/hubspot.png" width="50" title="HubSpot">](https://www.hubspot.com)[<img src="img\openai.png" width="50" title="OpenAI">](https://openai.com/blog/openai-api)|
+|[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img/git.png" width="50" title="Git">](https://git-scm.com)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|[<img src="img\openai.png" width="50" title="OpenAI">](https://openai.com/blog/openai-api)|
 
 ## 🎓 Certificados:
 
