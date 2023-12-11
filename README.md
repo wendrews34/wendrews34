@@ -1,16 +1,15 @@
 # ⛩️ Wendrews Botelho ⛩️ 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ariel-gustavo-frutuoso-riello-962217266/)
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/riello_programmer?tab=skills)
-<a href="mailto:riello.programmer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wendrews-botelho/)
+[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/wslb_gvp)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wendrews_ofc/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://m.facebook.com/wendrews.botelho/)
+
 
 ## 🏷️ Sobre mim:
 
-|Estagiário de Desenvolvimento|Tecnologia da Informação (TI)|
-|--|--|
-|[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)|[<img src="img\univesp.png" width="300" height="100">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)|
+Graduando do curso de Licenciatura em Computação, pela Universidade do Estado do Amazonas- UEA
+Iniciei os meus estudos na área de computação em 2014 , no Instituto Federal do Amazonas- IFAM campus Parintins -Am, cursando Técnico em Informática. Atualmente sou Bolsista do Programa Residência Pedagógica - Capes.
 
 *Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
