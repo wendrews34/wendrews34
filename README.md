@@ -35,8 +35,6 @@ Iniciei os meus estudos na área de computação em 2014 , no Instituto Federal 
 
 ## ⚙️ Repositórios de Projetos
 
-* [My_Review_List_Project](https://github.com/wendrews34/My_Review_List_Project)
-
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wendrews34&theme=dark&line_height=40&hide=css&layout=compact"/> </a>
 
 ---
