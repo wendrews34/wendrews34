@@ -35,9 +35,8 @@ Iniciei os meus estudos na área de computação em 2014 , no Instituto Federal 
 
 ## ⚙️ Repositórios de Projetos
 
-* [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
-* [My_Review_List_Project](https://github.com/ArielRiello/My_Review_List_Project)
+* [My_Review_List_Project](https://github.com/wendrews34/My_Review_List_Project)
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArielRiello&theme=dark&line_height=40&hide=css&layout=compact"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wendrews34&theme=dark&line_height=40&hide=css&layout=compact"/> </a>
 
 ---
